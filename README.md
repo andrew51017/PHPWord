@@ -12,6 +12,8 @@ PHPWord is a library written in pure PHP that provides a set of classes to write
 
 PHPWord is an open source project licensed under the terms of [LGPL version 3](https://github.com/PHPOffice/PHPWord/blob/develop/COPYING.LESSER). PHPWord is aimed to be a high quality software product by incorporating [continuous integration](https://travis-ci.org/PHPOffice/PHPWord) and [unit testing](http://phpoffice.github.io/PHPWord/coverage/develop/). You can learn more about PHPWord by reading the [Developers' Documentation](http://phpword.readthedocs.org/) and the [API Documentation](http://phpoffice.github.io/PHPWord/docs/develop/).
 
+This fork integrates the basic support for replacing an image in a template, as described in this [Stackoverflow Post](http://stackoverflow.com/questions/24018003/how-to-add-set-images-on-phpoffice-phpword-template)
+
 Read more about PHPWord:
 
 - [Features](#features)
